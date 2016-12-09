@@ -1,5 +1,5 @@
 
-// Developed by Casper Panduro
+// Developed by Casper Alex Panduro 
 
 (function ( $ ) {
     $.fn.moveit = function( options ) {
