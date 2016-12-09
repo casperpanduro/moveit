@@ -6,8 +6,6 @@
 		$(".moveit").moveit({
 			sensitivity: 10
 		});
-		$(".subline").moveit({
-			sensitivity: 20
-		})
 	});
-</script>´´´
+</script>
+´´´
