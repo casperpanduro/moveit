@@ -13,7 +13,9 @@
 <script>
 	$(document).ready(function(){
 		$(".moveit").moveit({
-			sensitivity: 10
+			sensitivity: 10,
+			rotate: false,
+			rotateSensitivity: 30
 		});
 	});
 </script>
