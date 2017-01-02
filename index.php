@@ -74,7 +74,8 @@
 	<script>
 		$(document).ready(function(){
 			$(".moveit").moveit({
-				sensitivity: 10
+				sensitivity: 10,
+				rotate: true
 			});
 			$(".subline").moveit({
 				sensitivity: 20
